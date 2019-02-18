@@ -1,6 +1,8 @@
 # How to Dockerize a React App and Deploy in Elastic Beanstalk
 
-### Docker File Steps
+<img src="https://spng.pngfly.com/20180629/kz/kisspng-docker-logo-kubernetes-software-deployment-engineer-logo-5b3616d6abce13.6733351915302714467037.jpg" />
+
+### Docker Configuartion Steps
 
 __1. Create file called "Dockerfile" and add the following lines, be sure to change version to a number i.e: 10.12.0
 Use node -v to find version__
