@@ -1,6 +1,5 @@
 # How to Dockerize a React App and Deploy in Elastic Beanstalk
 
-<img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" />
 
 ### Docker Configuartion Steps
 
