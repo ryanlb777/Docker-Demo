@@ -86,3 +86,8 @@ __5. Confirm EB is deployed__
 eb open
 
 ```
+
+
+### Author: 
+1. Ryan LeBon
+2. AWS & Docker
