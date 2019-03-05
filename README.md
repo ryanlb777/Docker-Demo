@@ -90,4 +90,4 @@ eb open
 
 ### Author: 
 1. Ryan LeBon
-2. AWS & Docker
+2. AWS, Docker & React
